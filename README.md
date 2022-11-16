@@ -15,7 +15,7 @@
            <center><h3>The Importance of Women Police Officers</h3></center>
            <div>
     <p>The representations of different groups have become powerful symbols of access, equality, and influence. Participation in the occupation of law enforcement symbolizes equality and socioeconomic opportunities for female police officers, but more importantly, women’s participation in the institution of policing symbolizes women’s right to stand beside, instead of behind, men in exercising state-sanctioned acts of formal social control
-    <a href="https://journals.sagepub.com/doi/epub/10.1177/1557085117753668"><i>(Schuck,2018)</a></i>
+    <a href="https://journals.sagepub.com/doi/epub/10.1177/1557085117753668"><i>(Schuck,2018).</a></i>
     </p>
     </div>
     <div>
@@ -28,11 +28,11 @@
     <center><h3>Did you know?</h3></center>
     <ul>
             <li>According to the national institute of justice, across the Country, about 1/8 of Law Enforcement officers are women in each department. Meaning there is usually a large smaller amount of women than men in each department. Scholars recognize that the percentage of women in police organizations is not representative of the communities they serve 
-            <a href="https://journals.sagepub.com/doi/epub/10.1177/2153368715575376"><i>(Morabito & Shelley, 2015)</a>.</i>
+            <a href="https://journals.sagepub.com/doi/epub/10.1177/2153368715575376"><i>(Morabito & Shelley, 2015).</a></i>
             </li>
         <br>
             <li>Female officers less likely to agree that aggressive tactics are sometimes necessary. 22% of women and 35% of men said they had physically struggled with suspect. 11% of women and 30% of men report that they have ever fired weapon on duty
-            <a href="https://www.pewresearch.org/fact-tank/2017/01/17/female-police-officers-on-the-job-experiences-diverge-from-those-of-male-officers/"><i>(Pew Research Center)</a>.</i>
+            <a href="https://www.pewresearch.org/fact-tank/2017/01/17/female-police-officers-on-the-job-experiences-diverge-from-those-of-male-officers/"><i>(Pew Research Center).</a></i>
             </li>
         <br>
             <li> Decades of gender discrimination have stymied the robust presence of women in leadership positions in American policing. Moreover, historic patterns of exclusion have led to problems of attrition whereby women in frontline positions either opt out of the promotion process or leave policing altogether before they can advance to the upper echelons—a trend referred to as a leaking pipeline (Bailyn, 2003).</li>
